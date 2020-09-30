@@ -5,5 +5,6 @@ Azul
 Verde
 Naranja
 Rojo
-
+Amarillo
+Violeta
 estos son los colores
