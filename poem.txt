@@ -5,6 +5,8 @@ Azul
 Verde
 Naranja
 Rojo
+
+Comentarios reciplar
 Amarillo y Unicornio
 Violeta
 estos son los colores
