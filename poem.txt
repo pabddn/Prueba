@@ -1,9 +1,9 @@
 Esto es una prueba
 
 Colores
-
+Azul
 Verde
-
+Naranja
 Rojo
 
 estos son los colores
