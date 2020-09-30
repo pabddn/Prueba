@@ -1,4 +1,4 @@
-Esto es una prueba sobre los Unicornios
+Esto es una prueba sobre los Unicornios y los Poniys
 
 Colores
 Azul
@@ -8,3 +8,4 @@ Rojo
 Amarillo y Unicornio
 Violeta
 estos son los colores
+Pony
